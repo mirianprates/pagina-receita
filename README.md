@@ -34,8 +34,8 @@ O objetivo principal foi praticar:
 ## Como visualizar
 
 Você pode acessar o projeto pelo link abaixo:
-receita-doce-de-banana.vercel.app/
 
+🌐 Deploy: receita-doce-de-banana.vercel.app
 ---
 
 Projeto desenvolvido como prática de layout e organização de estilos.
